@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://my-personal-portfolio-six-psi-35.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-moyo-bb289731b)
 [![GitHub](https://img.shields.io/badge/GitHub-elvismoyo400-181717?style=for-the-badge&logo=github)](https://github.com/elvismoyo400)
 
