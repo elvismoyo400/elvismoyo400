@@ -66,7 +66,7 @@ I'm a developer focused on full-stack web development, working primarily in **Py
 
 Open to internships, junior roles, and collaborations.
 
-📧 [your.email@example.com](mailto:your.email@example.com) · 💼 [LinkedIn](https://linkedin.com/in/elvis-moyo-bb289731b)
+📧 [your.email@example.com](mailto:elvismoyo400@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/elvis-moyo-bb289731b)
 
 <br>
 
